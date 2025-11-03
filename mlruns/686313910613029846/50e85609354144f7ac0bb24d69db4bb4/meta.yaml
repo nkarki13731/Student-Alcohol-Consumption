@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/50e85609354144f7ac0bb24d69db4bb4/artifacts
+end_time: 1762117638435
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: 50e85609354144f7ac0bb24d69db4bb4
+run_name: polite-conch-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762117628036
+status: 3
+tags: []
+user_id: nbkka

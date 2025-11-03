@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/90d87a662f434e75a325ed37684b62d1/artifacts
+end_time: 1762120223999
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: 90d87a662f434e75a325ed37684b62d1
+run_name: angry-deer-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762119814773
+status: 4
+tags: []
+user_id: nbkka

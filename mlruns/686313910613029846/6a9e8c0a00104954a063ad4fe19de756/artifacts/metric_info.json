@@ -1,0 +1,4 @@
+{
+  "accuracy_score_Xt": "accuracy_score(y_true=y_test, y_pred=y_pred)",
+  "f1_score_Xt": "f1_score(y_true=y_test, y_pred=y_pred)"
+}

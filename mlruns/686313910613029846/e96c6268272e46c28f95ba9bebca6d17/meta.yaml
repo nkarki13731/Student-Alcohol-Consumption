@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/e96c6268272e46c28f95ba9bebca6d17/artifacts
+end_time: 1762121379718
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: e96c6268272e46c28f95ba9bebca6d17
+run_name: marvelous-bird-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762121370524
+status: 3
+tags: []
+user_id: nbkka

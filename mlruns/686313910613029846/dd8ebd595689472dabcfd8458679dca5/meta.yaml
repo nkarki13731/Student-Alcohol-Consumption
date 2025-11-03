@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/dd8ebd595689472dabcfd8458679dca5/artifacts
+end_time: 1762121353590
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: dd8ebd595689472dabcfd8458679dca5
+run_name: ambitious-hen-395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762121344184
+status: 3
+tags: []
+user_id: nbkka

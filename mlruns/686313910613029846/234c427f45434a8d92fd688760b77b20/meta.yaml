@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/234c427f45434a8d92fd688760b77b20/artifacts
+end_time: 1762121326080
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: 234c427f45434a8d92fd688760b77b20
+run_name: debonair-stoat-192
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762121316168
+status: 3
+tags: []
+user_id: nbkka

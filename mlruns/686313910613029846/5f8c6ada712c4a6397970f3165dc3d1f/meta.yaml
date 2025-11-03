@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/5f8c6ada712c4a6397970f3165dc3d1f/artifacts
+end_time: 1762119411571
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: 5f8c6ada712c4a6397970f3165dc3d1f
+run_name: agreeable-mink-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762119401108
+status: 3
+tags: []
+user_id: nbkka

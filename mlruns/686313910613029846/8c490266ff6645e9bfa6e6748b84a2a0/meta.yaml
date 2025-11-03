@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/8c490266ff6645e9bfa6e6748b84a2a0/artifacts
+end_time: 1762118368853
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: 8c490266ff6645e9bfa6e6748b84a2a0
+run_name: gaudy-chimp-930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762118358816
+status: 3
+tags: []
+user_id: nbkka

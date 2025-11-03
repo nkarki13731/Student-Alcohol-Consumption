@@ -1,0 +1,1 @@
+[('cat', OneHotEncoder(handle_unknown='ignore'), ['famsup', 'goout_degree', 'activities', 'health_degree', 'freetime_degree', 'internet', 'famrel_degree'])]

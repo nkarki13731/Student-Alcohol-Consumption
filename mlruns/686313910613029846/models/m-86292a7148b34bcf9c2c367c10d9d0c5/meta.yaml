@@ -1,0 +1,11 @@
+artifact_location: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/models/m-86292a7148b34bcf9c2c367c10d9d0c5/artifacts
+creation_timestamp: 1762120220956
+experiment_id: '686313910613029846'
+last_updated_timestamp: 1762120220956
+lifecycle_stage: active
+model_id: m-86292a7148b34bcf9c2c367c10d9d0c5
+model_type: null
+name: best_estimator
+source_run_id: 90d87a662f434e75a325ed37684b62d1
+status: 1
+status_message: null

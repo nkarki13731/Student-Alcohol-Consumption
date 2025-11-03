@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/3abe71531c484cc881b45c99e476bbfa/artifacts
+end_time: 1762121149752
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: 3abe71531c484cc881b45c99e476bbfa
+run_name: LinearRegression_G2_only
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762120265150
+status: 4
+tags: []
+user_id: nbkka

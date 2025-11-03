@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/nbkka/dev/MachineLearning/Student-Alcohol-Consumption/notebooks/mlruns/443748942657833781/models/m-88fcab54bfe54b0eb4ba1546b5868337/artifacts
+creation_timestamp: 1762126562996
+experiment_id: '443748942657833781'
+last_updated_timestamp: 1762126572451
+model_id: m-88fcab54bfe54b0eb4ba1546b5868337
+model_type: null
+name: model
+source_run_id: 72dd13a97e4e46debc43bfd495341637
+status: 2
+status_message: null

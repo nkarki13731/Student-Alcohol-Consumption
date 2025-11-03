@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/b734588f880247889e452aaf9f9e612c/artifacts
+end_time: 1762117666990
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: b734588f880247889e452aaf9f9e612c
+run_name: abrasive-bee-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762117657016
+status: 3
+tags: []
+user_id: nbkka

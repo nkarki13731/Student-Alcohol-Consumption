@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/63e49e313baa48848795d6a2e9e74a79/artifacts
+end_time: 1762121588948
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: 63e49e313baa48848795d6a2e9e74a79
+run_name: luminous-cat-625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762121546075
+status: 4
+tags: []
+user_id: nbkka

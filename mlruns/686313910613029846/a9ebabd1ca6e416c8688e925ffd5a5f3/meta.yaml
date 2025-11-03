@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/a9ebabd1ca6e416c8688e925ffd5a5f3/artifacts
+end_time: 1762121418507
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: a9ebabd1ca6e416c8688e925ffd5a5f3
+run_name: treasured-colt-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762121407428
+status: 3
+tags: []
+user_id: nbkka

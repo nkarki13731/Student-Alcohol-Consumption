@@ -1,0 +1,8 @@
+digest: 8887298f
+name: dataset
+profile: '{"features_shape": [209, 4], "features_size": 836, "features_nbytes": 6688}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"int64\", \"shape\": [-1, 4]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "nbkka", "mlflow.source.name": "C:\\Users\\nbkka\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

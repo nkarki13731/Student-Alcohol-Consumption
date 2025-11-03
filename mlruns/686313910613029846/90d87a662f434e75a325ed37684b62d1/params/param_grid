@@ -1,0 +1,1 @@
+{'smote__k_neighbors': [3, 5, 7], 'smote__sampling_strategy': ['auto', 0.6, 0.8, 1.0], 'clf__criterion': ['gini', 'entropy', 'log_loss'], 'clf__max_depth': [None, 4, 6, 8, 10], 'clf__min_samples_leaf': [1, 5, 10, 20], 'clf__min_samples_split': [2, 10, 20, 50], 'clf__ccp_alpha': [0.0, 0.0001, 0.0005, 0.001]}

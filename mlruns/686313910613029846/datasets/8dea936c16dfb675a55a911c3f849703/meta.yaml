@@ -1,0 +1,12 @@
+digest: 49738ce7
+name: dataset
+profile: '{"num_rows": 783, "num_elements": 5481}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "famsup", "required": true},
+  {"type": "string", "name": "goout_degree", "required": true}, {"type": "string",
+  "name": "activities", "required": true}, {"type": "string", "name": "health_degree",
+  "required": true}, {"type": "string", "name": "freetime_degree", "required": true},
+  {"type": "string", "name": "internet", "required": true}, {"type": "string", "name":
+  "famrel_degree", "required": true}]}'
+source: '{"tags": {"mlflow.user": "nbkka", "mlflow.source.name": "C:\\Users\\nbkka\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

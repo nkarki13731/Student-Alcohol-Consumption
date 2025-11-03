@@ -1,0 +1,4 @@
+[('pre', ColumnTransformer(transformers=[('cat', OneHotEncoder(handle_unknown='ignore'),
+                                 ['famsup', 'goout_degree', 'activities',
+                                  'health_degree', 'freetime_degree',
+                                  'internet', 'famrel_degree'])])), ('smote', SMOTE(k_neighbors=3, random_state=42, sampling_strategy=0.6)), ('clf', DecisionTreeClassifier(max_depth=6, min_samples_leaf=10, random_state=42))]

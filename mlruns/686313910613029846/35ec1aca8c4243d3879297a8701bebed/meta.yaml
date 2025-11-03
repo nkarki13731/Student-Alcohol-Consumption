@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/35ec1aca8c4243d3879297a8701bebed/artifacts
+end_time: 1762117927050
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: 35ec1aca8c4243d3879297a8701bebed
+run_name: carefree-cod-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762117915954
+status: 3
+tags: []
+user_id: nbkka

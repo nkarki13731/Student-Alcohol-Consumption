@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/b2fd672cc2064558b05c3fbd7fde57a9/artifacts
+end_time: 1762118666648
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: b2fd672cc2064558b05c3fbd7fde57a9
+run_name: rare-newt-407
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762118655466
+status: 3
+tags: []
+user_id: nbkka

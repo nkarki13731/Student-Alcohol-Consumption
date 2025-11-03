@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/nbkka/dev/MachineLearning/Student-Alcohol-Consumption/src/mlruns/601796689738723073/75448ff9e38e465cb9dc1e2cc47ae783/artifacts
+end_time: 1762129307210
+entry_point_name: ''
+experiment_id: '601796689738723073'
+lifecycle_stage: active
+run_id: 75448ff9e38e465cb9dc1e2cc47ae783
+run_name: baseline-exp1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762129300761
+status: 3
+tags: []
+user_id: nbkka

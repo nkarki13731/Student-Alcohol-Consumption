@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/dab5d9650f5648a9b9eecccdf9b83c52/artifacts
+end_time: 1762121390989
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: dab5d9650f5648a9b9eecccdf9b83c52
+run_name: gifted-shoat-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762121379736
+status: 3
+tags: []
+user_id: nbkka

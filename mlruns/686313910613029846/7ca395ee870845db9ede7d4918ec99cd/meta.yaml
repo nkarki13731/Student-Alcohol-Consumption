@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/7ca395ee870845db9ede7d4918ec99cd/artifacts
+end_time: 1762117957356
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: 7ca395ee870845db9ede7d4918ec99cd
+run_name: bustling-smelt-779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762117946717
+status: 3
+tags: []
+user_id: nbkka

@@ -1,0 +1,18 @@
+artifact_path: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/models/m-39487e1b7e324112abb81490ef9554e2/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.1
+model_id: m-39487e1b7e324112abb81490ef9554e2
+model_size_bytes: 12882
+model_uuid: m-39487e1b7e324112abb81490ef9554e2
+prompts: null
+run_id: c6d39b2b73f14397991e8e0d2f595497
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: ndarray
+utc_time_created: '2025-11-02 22:09:57.533041'

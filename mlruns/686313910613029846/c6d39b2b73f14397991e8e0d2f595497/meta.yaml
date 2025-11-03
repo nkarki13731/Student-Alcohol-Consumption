@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/c6d39b2b73f14397991e8e0d2f595497/artifacts
+end_time: 1762121407408
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: c6d39b2b73f14397991e8e0d2f595497
+run_name: indecisive-boar-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762121397252
+status: 3
+tags: []
+user_id: nbkka

@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/81791e8e76354cfd8648b99a232eaf52/artifacts
+end_time: 1762117545189
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: 81791e8e76354cfd8648b99a232eaf52
+run_name: placid-bear-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762117533258
+status: 3
+tags: []
+user_id: nbkka

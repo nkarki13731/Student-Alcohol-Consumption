@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/models/m-fd14a36a47ed4f089bf49beb3e9129ef/artifacts
+creation_timestamp: 1762117533514
+experiment_id: '686313910613029846'
+last_updated_timestamp: 1762117543643
+model_id: m-fd14a36a47ed4f089bf49beb3e9129ef
+model_type: null
+name: model
+source_run_id: 81791e8e76354cfd8648b99a232eaf52
+status: 2
+status_message: null

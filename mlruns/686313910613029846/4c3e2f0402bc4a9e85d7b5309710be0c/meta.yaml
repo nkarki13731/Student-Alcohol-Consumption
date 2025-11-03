@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/4c3e2f0402bc4a9e85d7b5309710be0c/artifacts
+end_time: 1762121364410
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: 4c3e2f0402bc4a9e85d7b5309710be0c
+run_name: burly-ray-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762121353612
+status: 3
+tags: []
+user_id: nbkka

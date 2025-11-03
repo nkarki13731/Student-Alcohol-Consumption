@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/26f69039c46b4b8c979c9394ce0acfba/artifacts
+end_time: 1762119423579
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: 26f69039c46b4b8c979c9394ce0acfba
+run_name: brawny-bug-612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762119411588
+status: 3
+tags: []
+user_id: nbkka

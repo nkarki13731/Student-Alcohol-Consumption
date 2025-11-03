@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/nbkka/dev/MachineLearning/Student-Alcohol-Consumption/notebooks/mlruns/443748942657833781/1f62ba4bee3b406fa070db802d8e425c/artifacts
+end_time: 1762126554459
+entry_point_name: ''
+experiment_id: '443748942657833781'
+lifecycle_stage: active
+run_id: 1f62ba4bee3b406fa070db802d8e425c
+run_name: LinearRegression_G2_only
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762125928276
+status: 4
+tags: []
+user_id: nbkka

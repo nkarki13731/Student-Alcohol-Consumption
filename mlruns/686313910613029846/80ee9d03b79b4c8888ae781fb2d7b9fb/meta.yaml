@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/nbkka/dev/MachineLearning/mlruns/686313910613029846/80ee9d03b79b4c8888ae781fb2d7b9fb/artifacts
+end_time: 1762121687164
+entry_point_name: ''
+experiment_id: '686313910613029846'
+lifecycle_stage: active
+run_id: 80ee9d03b79b4c8888ae781fb2d7b9fb
+run_name: bittersweet-pig-545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762121677506
+status: 3
+tags: []
+user_id: nbkka
