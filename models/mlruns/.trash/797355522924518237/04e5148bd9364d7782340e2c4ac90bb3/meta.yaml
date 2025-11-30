@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nbkka/dev/MachineLearning/Student-Alcohol-Consumption/models/mlruns/797355522924518237/04e5148bd9364d7782340e2c4ac90bb3/artifacts
+deleted_time: 1764444771165
+end_time: null
+entry_point_name: ''
+experiment_id: '797355522924518237'
+lifecycle_stage: deleted
+run_id: 04e5148bd9364d7782340e2c4ac90bb3
+run_name: adaptable-sheep-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764443276698
+status: 1
+tags: []
+user_id: nbkka

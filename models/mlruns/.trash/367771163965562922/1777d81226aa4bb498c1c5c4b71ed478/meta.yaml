@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nbkka/dev/MachineLearning/Student-Alcohol-Consumption/models/mlruns/367771163965562922/1777d81226aa4bb498c1c5c4b71ed478/artifacts
+deleted_time: 1764444762853
+end_time: 1764442746227
+entry_point_name: ''
+experiment_id: '367771163965562922'
+lifecycle_stage: deleted
+run_id: 1777d81226aa4bb498c1c5c4b71ed478
+run_name: dapper-shrew-421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764442721571
+status: 3
+tags: []
+user_id: nbkka

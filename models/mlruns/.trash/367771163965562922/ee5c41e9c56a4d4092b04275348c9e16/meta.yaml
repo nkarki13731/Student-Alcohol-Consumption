@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nbkka/dev/MachineLearning/Student-Alcohol-Consumption/models/mlruns/367771163965562922/ee5c41e9c56a4d4092b04275348c9e16/artifacts
+deleted_time: 1764444762853
+end_time: 1764442309033
+entry_point_name: ''
+experiment_id: '367771163965562922'
+lifecycle_stage: deleted
+run_id: ee5c41e9c56a4d4092b04275348c9e16
+run_name: MLP_regression_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764442273452
+status: 3
+tags: []
+user_id: nbkka

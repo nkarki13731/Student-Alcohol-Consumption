@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/nbkka/dev/MachineLearning/Student-Alcohol-Consumption/models/mlruns/692968375480143094/f510aa2986a4409a8faca1a4d6eb5089/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '692968375480143094'
+lifecycle_stage: active
+run_id: f510aa2986a4409a8faca1a4d6eb5089
+run_name: resilient-lark-667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764452958495
+status: 1
+tags: []
+user_id: nbkka

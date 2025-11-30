@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/nbkka/dev/MachineLearning/Student-Alcohol-Consumption/models/mlruns/692968375480143094/bebc4361fef749e89bad256c20f0071c/artifacts
+end_time: 1764452957734
+entry_point_name: ''
+experiment_id: '692968375480143094'
+lifecycle_stage: active
+run_id: bebc4361fef749e89bad256c20f0071c
+run_name: bemused-elk-120
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764452918137
+status: 3
+tags: []
+user_id: nbkka

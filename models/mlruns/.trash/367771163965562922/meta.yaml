@@ -1,0 +1,7 @@
+artifact_location: file:///C:/Users/nbkka/dev/MachineLearning/Student-Alcohol-Consumption/models/mlruns/367771163965562922
+creation_time: 1764441870203
+experiment_id: '367771163965562922'
+last_update_time: 1764444762853
+lifecycle_stage: deleted
+name: binary_classification_experiment
+tags: {}

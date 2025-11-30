@@ -1,0 +1,27 @@
+artifact_path: file:///C:/Users/nbkka/dev/MachineLearning/Student-Alcohol-Consumption/models/mlruns/797355522924518237/models/m-eeb649e15a6d4362901046ab19cf88aa/artifacts
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.12.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.13.9
+is_signature_from_type_hint: false
+mlflow_version: 3.5.1
+model_id: m-eeb649e15a6d4362901046ab19cf88aa
+model_size_bytes: 201780
+model_uuid: m-eeb649e15a6d4362901046ab19cf88aa
+prompts: null
+run_id: 04e5148bd9364d7782340e2c4ac90bb3
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1, 46]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-29 19:14:22.034080'

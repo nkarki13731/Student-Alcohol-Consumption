@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/nbkka/dev/MachineLearning/Student-Alcohol-Consumption/models/mlruns/692968375480143094/6e4703ca7b8d4e6f8e59bdbd1456492f/artifacts
+end_time: 1764452532101
+entry_point_name: ''
+experiment_id: '692968375480143094'
+lifecycle_stage: active
+run_id: 6e4703ca7b8d4e6f8e59bdbd1456492f
+run_name: sincere-slug-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764445910996
+status: 3
+tags: []
+user_id: nbkka

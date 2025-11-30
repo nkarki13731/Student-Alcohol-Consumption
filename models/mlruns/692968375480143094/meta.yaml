@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/nbkka/dev/MachineLearning/Student-Alcohol-Consumption/models/mlruns/692968375480143094
+creation_time: 1764445867387
+experiment_id: '692968375480143094'
+last_update_time: 1764445867387
+lifecycle_stage: active
+name: student_alcohol_uses_mlp

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nbkka/dev/MachineLearning/Student-Alcohol-Consumption/models/mlruns/449997035405985955/f7202ab73955493297adbfe3ed997c86/artifacts
+deleted_time: 1764445611976
+end_time: null
+entry_point_name: ''
+experiment_id: '449997035405985955'
+lifecycle_stage: deleted
+run_id: f7202ab73955493297adbfe3ed997c86
+run_name: skillful-ray-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764445068546
+status: 1
+tags: []
+user_id: nbkka
